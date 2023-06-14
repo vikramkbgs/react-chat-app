@@ -33,7 +33,6 @@ The folder structure of the project is as follows:
 - `src`: Contains the source code files
   - `components`: Contains reusable React components used in the application
   - `store`: Contains Redux store configuration and slice files
-  - `utils`: Contains utility functions used in the application
 
 ## Contributing
 
