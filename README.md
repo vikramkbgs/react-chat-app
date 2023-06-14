@@ -3,7 +3,7 @@
 React Chat App is a simple chat application built using React.js. It allows users to engage in real-time conversations with their friends.
 
 ## Live 
-[Click here to visit the live website]([https://www.example.com](https://react-chat-app.vikramroy1.repl.co/))
+[Click here to visit the live website](https://react-chat-app.vikramroy1.repl.co/)
 
 
 ## Features
